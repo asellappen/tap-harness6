@@ -4,7 +4,7 @@ arch:
   - ppc64le
 
 services:
-  - docker
+  ##- docker
 
 install:
   - docker pull jjmerelo/test-perl6
